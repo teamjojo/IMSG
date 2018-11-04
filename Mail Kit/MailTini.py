@@ -3,7 +3,7 @@ fromaddr = 'tienerschoolnut@gmail.com'
 toaddrs  = 'tsterenborg@odysseescholen.nl'
 msg = 'hallo indy dit is een test door imsg'
 username = 'tienerschoolnut@gmail.com'
-password = 'J0r@n2006'
+password = '***'
 server = smtplib.SMTP('smtp.gmail.com:587')
 server.ehlo()
 server.starttls()
