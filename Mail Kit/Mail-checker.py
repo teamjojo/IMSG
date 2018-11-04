@@ -6,7 +6,7 @@ import imaplib
 imap_ssl_host = 'imap.gmail.com'  
 imap_ssl_port = 993
 username = 'tienerschoolnut@gmail.com'
-password = 'J0r@n2006'
+password = '***'
 
 
 
