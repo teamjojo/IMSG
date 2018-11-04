@@ -1,9 +1,6 @@
 # IMSG
-this is the email system for The NutBox                     Power off / trigger IMSG
-we use it like this                                              ^
-                                                                 |
-Arduino --> Web-server(Mac mini) ---> error codes ---> arduino --|
-                                                                 do nothing
+this is the email system for The NutBox             
+we use it like this
 the arduino sends the temprature, power and smoke levels to the mac mini
 the mac mini says he the temprature is high and we have a lot of smoke trigger error codes 
 those trigger IMSG/Brakes(all power off)
